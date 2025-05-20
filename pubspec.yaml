@@ -1,0 +1,17 @@
+name: tqp_chat_sdk
+description: >
+  Gói SDK mở trang chat chatbot của bạn chỉ với 1 dòng lệnh.
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ">=6.2.5 <7.0.0"
+
+platforms:
+  android:
+  ios:
+  web:
