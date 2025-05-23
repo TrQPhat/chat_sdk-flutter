@@ -1,6 +1,7 @@
 name: tqp_chat_sdk
 description: >
   Gói SDK mở trang chat chatbot của bạn chỉ với 1 dòng lệnh.
+repository: https://github.com/TrQPhat/chat_sdk-flutter
 version: 1.0.0
 environment:
   sdk: ">=3.0.0 <4.0.0"
