@@ -1,3 +1,5 @@
-## 0.0.1
+## [1.0.0] - 2025-05-23
 
-* TODO: Describe initial release.
+- Initial release of `tqp_chat_sdk_flutter`.
+- Hỗ trợ mở cuộc trò chuyện qua URI.
+- Hỗ trợ tuỳ chọn mở trong ứng dụng hoặc trình duyệt.
